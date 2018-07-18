@@ -14,7 +14,3 @@ Simply clone this app from Github and follow these steps to run locally;
 ## Run local server
 
 Any local server will work. `python -m SimpleHTTPServer` will work or you could install [Live Server](https://www.npmjs.com/package/live-server).
-
-## Example version
-
-See [example app](https://forecast.anotheruiguy.com/).
